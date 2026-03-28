@@ -10,7 +10,7 @@ export default defineConfig({
       manifest: {
         name: 'Todo Canto',
         short_name: 'TodoCanto',
-        description: 'Guia de viagem',
+        description: 'Guia de bordo da viagem',
         theme_color: '#8B4513',
         background_color: '#8B4513',
         display: 'standalone',
